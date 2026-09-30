@@ -6,7 +6,6 @@ import numpy as np
 
 from .link import log_distance_path_loss, modulation_class
 
-
 FEATURE_NAMES = ["distance_m", "tx_power_dbm", "path_loss_db", "shadowing_db", "snr_db"]
 
 
